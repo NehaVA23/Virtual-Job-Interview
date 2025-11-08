@@ -1,0 +1,34 @@
+{
+    "jobs": [
+        {
+            "title": "Business Analyst",
+            "responsibilities": [
+                "Analyze business needs and propose solutions.",
+                "Work with cross-functional teams to drive initiatives.",
+                "Document business processes and systems."
+            ],
+            "requirements": [
+                "Bachelor's degree in Business or related field.",
+                "0-3 years of experience in business analysis.",
+                "Strong analytical skills."
+            ]
+        },
+        {
+            "title": "Product Manager",
+            "responsibilities": [
+                "Define product vision and roadmap.",
+                "Collaborate with engineering and design teams.",
+                "Analyze market trends and customer feedback."
+            ],
+            "requirements": [
+                "Bachelor's degree in a relevant field.",
+                "3-5 years of product management experience.",
+                "Excellent communication skills."
+            ]
+        }
+
+
+
+
+    ]
+}

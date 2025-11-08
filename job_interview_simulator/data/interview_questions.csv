@@ -1,0 +1,13 @@
+id,question,domain,difficulty,type
+1,What is a linked list?,DSA,Easy,Technical
+2,Describe the difference between BFS and DFS.,DSA,medium,technical
+3,How would you handle a conflict in the workplace?,HR,easy,HR
+4,What is dynamic programming?,DSA,hard,technical
+5,Describe a time you showed leadership at work.,HR,medium,HR
+6,Explain the difference between a stack and a queue.,DSA,easy,technical
+7,What is the STAR method in answering interview questions?,HR,easy,HR
+8,How do you optimize algorithms for time complexity?,DSA,hard,technical
+9,Why do you want to work for this company?,HR,medium,HR
+10,What are pointers in C?,C Programming,medium,technical
+11,Explain polymorphism in Object-Oriented Programming.,Java,hard,technical
+12,What are your long-term career goals?,HR,easy,HR

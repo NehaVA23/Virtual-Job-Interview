@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Description Editor</title>
+    <link rel="stylesheet" href="assets/css/domain.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Select a job description</h1>
+        <div class="job-options">
+            <button class="job-btn" onclick="showJobDescription(0)">My Job Description</button>
+            <button class="job-btn" onclick="showJobDescription(1)">Business Analyst</button>
+            <button class="job-btn" onclick="showJobDescription(2)">Product Manager</button>
+            <button class="job-btn" onclick="showJobDescription(3)">Software Engineer</button>
+            <button class="job-btn" onclick="showJobDescription(4)">Marketing Specialist</button>
+            <button class="job-btn" onclick="showJobDescription(5)">Sales Representative</button>
+            <button class="job-btn" onclick="showJobDescription(6)">Data Analyst</button>
+            <button class="job-btn" onclick="showJobDescription(7)">UX/UI Designer</button>
+            <button class="job-btn" onclick="showJobDescription(8)">Human Resources Specialist</button>
+            <button class="job-btn" onclick="showJobDescription(9)">Customer Service Representative</button>
+            <button class="job-btn" onclick="showJobDescription(10)">QA Engineer</button>
+        </div>
+
+        <div class="job-description">
+            <h2 contenteditable="true" id="job-title"></h2>
+            <div id="job-summary">
+                <h3>Responsibilities:</h3>
+                <ul contenteditable="true" id="job-responsibilities"></ul>
+                <h3>Requirements:</h3>
+                <ul contenteditable="true" id="job-requirements"></ul>
+            </div>
+        </div>
+    </div>
+    <script src="assets/js/domain.js"></script>
+</body>
+</html>

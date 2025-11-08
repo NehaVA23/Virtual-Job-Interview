@@ -1,0 +1,21 @@
+
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.sqlite3
+*.log
+db.sqlite3
+
+# Environment
+venv/
+.env
+
+# VSCode/PyCharm settings (optional)
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

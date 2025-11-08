@@ -1,0 +1,68 @@
+Topic,Question,Difficulty,Domain,Answer Explanation
+Full Stack,How do you handle authentication in a web application?,Hard,Full Stack,This question pertains to Full Stack concepts.
+Python,What is the purpose of the `__init__` method?,Easy,Python,This question pertains to Python concepts.
+Full Stack,What are the differences between SQL and NoSQL databases?,Medium,Full Stack,This question pertains to Full Stack concepts.
+Java,What is the Singleton design pattern?,Medium,Miscellaneous,This question pertains to Java concepts.
+Java,"What is the difference between JDK, JRE, and JVM?",Medium,Java,This question pertains to Java concepts.
+C,Explain the difference between `malloc()` and `calloc()`.,Medium,C,This question pertains to C concepts.
+C,What is the use of the `static` keyword?,Medium,C,This question pertains to C concepts.
+C++,What is the difference between class and structure in C++?,Medium,C++,This question pertains to C++ concepts.
+Machine Learning,What is overfitting in machine learning?,Hard,Machine Learning,This question pertains to Machine Learning concepts.
+Java,What is the Stream API in Java?,Hard,Java,This question pertains to Java concepts.
+Java,How does garbage collection work in Java?,Hard,Java,This question pertains to Java concepts.
+Java,How do you handle exceptions in Java?,Medium,Java,This question pertains to Java concepts.
+Machine Learning,What is the role of a training set?,Easy,Machine Learning,This question pertains to Machine Learning concepts.
+C,What is the difference between structure and union?,Medium,C,This question pertains to C concepts.
+Python,How can you manage memory in Python?,Hard,Python,This question pertains to Python concepts.
+Machine Learning,What is feature engineering?,Medium,Machine Learning,This question pertains to Machine Learning concepts.
+Java,What are functional interfaces in Java?,Hard,Java,This question pertains to Java concepts.
+C++,What is the STL in C++?,Medium,C++,This question pertains to C++ concepts.
+Full Stack,Explain the concept of responsive design.,Medium,Full Stack,This question pertains to Full Stack concepts.
+C,Explain the concept of recursion with an example.,Medium,C,This question pertains to C concepts.
+Python,What is the difference between deep copy and shallow copy?,Medium,Python,This question pertains to Python concepts.
+Java,What are Java annotations and how are they used?,Medium,Java,This question pertains to Java concepts.
+Python,How do you implement multithreading in Python?,Hard,Python,This question pertains to Python concepts.
+Full Stack,Explain how front-end and back-end interact.,Medium,Full Stack,This question pertains to Full Stack concepts.
+C++,How do you achieve multiple inheritance in C++?,Hard,C++,This question pertains to C++ concepts.
+Full Stack,How do you manage state in a React application?,Hard,Full Stack,This question pertains to Full Stack concepts.
+C,What is a pointer and how is it used in C?,Medium,C,This question pertains to C concepts.
+C++,What is a pure virtual function?,Medium,C++,This question pertains to C++ concepts.
+C++,How does exception handling work in C++?,Medium,C++,This question pertains to C++ concepts.
+Full Stack,What are WebSockets and how do they work?,Hard,Full Stack,This question pertains to Full Stack concepts.
+Python,What are Python decorators and how do they work?,Hard,Python,This question pertains to Python concepts.
+C,How do you manage memory in C?,Hard,C,This question pertains to C concepts.
+C++,What is the role of the `virtual` keyword?,Medium,C++,This question pertains to C++ concepts.
+C,What are the different storage classes in C?,Medium,C,This question pertains to C concepts.
+Machine Learning,What is PCA and why is it used?,Hard,Machine Learning,This question pertains to Machine Learning concepts.
+Machine Learning,Explain how gradient descent works.,Hard,Machine Learning,This question pertains to Machine Learning concepts.
+Java,What is the purpose of the `volatile` keyword in Java?,Medium,Miscellaneous,This question pertains to Java concepts.
+C,How do you implement a linked list in C?,Hard,C,This question pertains to C concepts.
+Java,What is polymorphism and how is it achieved in Java?,Hard,Java,This question pertains to Java concepts.
+Machine Learning,What are the common evaluation metrics in classification?,Medium,Machine Learning,This question pertains to Machine Learning concepts.
+C++,What are templates in C++?,Medium,C++,This question pertains to C++ concepts.
+Java,Explain the concept of inheritance in Java.,Medium,Java,This question pertains to Java concepts.
+Python,How does exception handling work in Python?,Medium,Python,This question pertains to Python concepts.
+Python,Explain the concept of context managers.,Medium,Python,This question pertains to Python concepts.
+Machine Learning,What is cross-validation?,Medium,Machine Learning,This question pertains to Machine Learning concepts.
+C++,What are smart pointers in C++?,Hard,C++,This question pertains to C++ concepts.
+Java,Explain Java memory model.,Hard,Java,This question pertains to Java concepts.
+C++,What is the role of destructors in C++?,Medium,Miscellaneous,This question pertains to C++ concepts.
+C,What is a function pointer?,Hard,C,This question pertains to C concepts.
+Python,What are generators in Python?,Medium,Python,This question pertains to Python concepts.
+C++,Explain RAII (Resource Acquisition Is Initialization).,Hard,C++,This question pertains to C++ concepts.
+Full Stack,What is the purpose of middleware?,Medium,Full Stack,This question pertains to Full Stack concepts.
+Full Stack,How do you implement a responsive web design?,Medium,Miscellaneous,This question pertains to Full Stack concepts.
+Python,What is list comprehension?,Easy,Python,This question pertains to Python concepts.
+Machine Learning,How does a decision tree algorithm work?,Hard,Machine Learning,This question pertains to Machine Learning concepts.
+Machine Learning,What is the difference between bagging and boosting?,Hard,Miscellaneous,This question pertains to Machine Learning concepts.
+Java,What is the purpose of the `final` keyword in Java?,Medium,Java,This question pertains to Java concepts.
+Python,What is a lambda function in Python?,Medium,Miscellaneous,This question pertains to Python concepts.
+Python,Explain the difference between lists and tuples.,Medium,Python,This question pertains to Python concepts.
+C++,Explain the concept of operator overloading.,Hard,C++,This question pertains to C++ concepts.
+Full Stack,What is a Progressive Web App (PWA)?,Medium,Full Stack,This question pertains to Full Stack concepts.
+C,What is the use of `#define` in C?,Easy,C,This question pertains to C concepts.
+Machine Learning,What is the purpose of a confusion matrix?,Medium,Machine Learning,This question pertains to Machine Learning concepts.
+Full Stack,What is the role of Node.js in full-stack development?,Medium,Full Stack,This question pertains to Full Stack concepts.
+Machine Learning,Explain the difference between supervised and unsupervised learning.,Medium,Machine Learning,This question pertains to Machine Learning concepts.
+C,How do you perform file handling in C?,Medium,Miscellaneous,This question pertains to C concepts.
+Full Stack,Explain the concept of RESTful APIs.,Medium,Full Stack,This question pertains to Full Stack concepts.
