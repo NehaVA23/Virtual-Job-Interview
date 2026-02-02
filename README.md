@@ -38,12 +38,12 @@ MySQL
 
 Backend
 
+```bash
 cd job_interview_simulator
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python manage.py runserver
-
 Frontend
 
 cd job_interview_frontend
