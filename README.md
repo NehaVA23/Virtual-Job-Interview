@@ -42,3 +42,15 @@ In the Django folder (`job_interview_simulator`):
 ```bash
 pip freeze > requirements.txt
 This makes it easier to reinstall dependencies late
+
+## 📸 Project Review 
+
+### Domain Selection
+![Domain Selection](images/domain-selection.jpg)
+
+### Interview Interface
+![Interview](images/interview.jpg)
+
+### Feedback Screen
+![Feedback 1](images/feedback-1.jpg)
+![Feedback 2](images/feedback-2.jpg)
