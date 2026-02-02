@@ -44,8 +44,9 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python manage.py runserver
+```
+```bash
 Frontend
-
 cd job_interview_frontend
 npm install
 npm start
