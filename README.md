@@ -43,14 +43,18 @@ In the Django folder (`job_interview_simulator`):
 pip freeze > requirements.txt
 This makes it easier to reinstall dependencies late
 
-## 📸 Project Review 
 
-### Domain Selection
-![Domain Selection](images/domain-selection.jpg)
+--------------------------------------------------
 
-### Interview Interface
-![Interview](images/interview.jpg)
+📸 PROJECT SCREENSHOTS
 
-### Feedback Screen
-![Feedback 1](images/feedback-1.jpg)
-![Feedback 2](images/feedback-2.jpg)
+Domain Selection  
+![Domain Selection](./images/domain-selection.jpg)
+
+Interview Interface  
+![Interview Interface](./images/interview.jpg)
+
+Feedback Screen  
+![Feedback Screen](./images/feedback-1.jpg)
+![Feedback Screen](./images/feedback-2.jpg)
+--------------------------------------------------
