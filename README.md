@@ -49,7 +49,7 @@ Frontend
 cd job_interview_frontend
 npm install
 npm start
-
+```
 --------------------------------------------------
 
 🖼️ APPLICATION PREVIEW
