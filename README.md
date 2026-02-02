@@ -1,28 +1,43 @@
-# 🎤 Virtual Job Interview Simulator
+🎤 Virtual Job Interview Simulator
 
-This project simulates a job interview process with GPT-generated questions, real-time feedback, and voice input support.
+This project simulates a job interview process using AI-generated questions, real-time feedback, and voice input support. It helps users practice interviews in an interactive and realistic way.
 
-## 🔧 Tech Stack
+--------------------------------------------------
 
-- **Frontend**: React.js, Bootstrap, JavaScript
-- **Backend**: Python, Django
-- **Database**: MySQL
+🔧 Tech Stack
 
-## 🚀 Features
+Frontend  
+React.js, Bootstrap, JavaScript  
 
-- Dynamic interview question generation
-- Domain and difficulty selection
-- Voice and typing input
-- AI-generated feedback and grading
+Backend  
+Python, Django  
 
-## 📁 Folder Structure
+Database  
+MySQL  
 
-- `/job_interview_frontend`: React frontend
-- `/job_interview_simulator`: Django backend
+--------------------------------------------------
 
-## 🛠️ How to Run
+🚀 Features
 
-### Backend:
+• Dynamic interview question generation  
+• Domain and difficulty selection  
+• Voice and typing input support  
+• AI-generated feedback and grading  
+
+--------------------------------------------------
+
+📁 Folder Structure
+
+/job_interview_frontend – React frontend  
+/job_interview_simulator – Django backend  
+/images – Project screenshots  
+
+--------------------------------------------------
+
+🛠️ How to Run
+
+Backend
+
 ```bash
 cd job_interview_simulator
 python -m venv venv
@@ -30,31 +45,9 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python manage.py runserver
 
-###Frontend
-```bash
+Frontend
+
 cd job_interview_frontend
 npm install
 npm start
-### 4. **(Optional) Add `requirements.txt` for Backend**
 
-In the Django folder (`job_interview_simulator`):
-
-```bash
-pip freeze > requirements.txt
-This makes it easier to reinstall dependencies late
-
-
---------------------------------------------------
-
-📸 PROJECT SCREENSHOTS
-
-Domain Selection  
-![Domain Selection](./images/domain-selection.jpg)
-
-Interview Interface  
-![Interview Interface](./images/interview.jpg)
-
-Feedback Screen  
-![Feedback Screen](./images/feedback-1.jpg)
-![Feedback Screen](./images/feedback-2.jpg)
---------------------------------------------------
